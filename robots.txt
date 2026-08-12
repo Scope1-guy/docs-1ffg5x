@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-zd05wn.ephotobook.in/sitemap.xml
